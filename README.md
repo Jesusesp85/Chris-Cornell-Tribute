@@ -21,3 +21,22 @@ This tribute page honors the life and legacy of Chris Cornell, featuring:
 - A clean, responsive layout
 
 ## 📁 Project Structure
+
+
+## 📸 Screenshot
+
+![Preview of the tribute page](images/screenshot.jpg)  
+
+## 🧠 What I Learned
+
+- Structuring semantic HTML
+- Styling with CSS Flexbox and media queries
+- Organizing assets and maintaining clean code
+
+## 📬 Contact
+
+Feel free to reach out if you have feedback or suggestions.  
+[Jesusesp85]
+
+---
+
