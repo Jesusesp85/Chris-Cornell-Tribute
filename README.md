@@ -16,7 +16,7 @@ This project is part of the **Responsive Web Design Certification** from [freeCo
 
 This tribute page honors the life and legacy of Chris Cornell, featuring:
 
-- A picture
+- A picture of the artist
 - A list of his most iconic bands
 - A clean, responsive layout
 
