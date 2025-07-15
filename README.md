@@ -5,7 +5,7 @@ This project is part of the **Responsive Web Design Certification** from [freeCo
 
 ## 🎸 Live Demo
 
-[View the live site here](https://jesusesp85.github.io/chris-cornell-tribute/)  
+[View the live site here](https://jesusesp85.github.io/Chris-Cornell-Tribute/)  
 
 ## 🛠️ Technologies Used
 
